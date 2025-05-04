@@ -7,11 +7,11 @@ i'm learning kotlin
 pronouns - any/all
 
 <p align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=sheataru&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&text_color=7a7a7a"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sheataru&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true"/>
 </p>
 <p align="center" >
-    <img src="https://streak-stats.demolab.com/?user=sheataru&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&currStreakNum=7A7A7A&sideNums=7A7A7A&sideLabels=7A7A7A&border=E4E2E2&currStreakLabel=3080ED&ring=3080ED&fire=DD2727"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheataru&theme=great-gatsby&hide_border=false"/>
 </p>
 <p align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheataru&layout=compact&hide=html&bg_color=00000000&text_color=7a7a7a"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheataru&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact"/>
 </p>
