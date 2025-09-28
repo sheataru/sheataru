@@ -2,7 +2,7 @@ hi, i’m shea
 
 i’m interested in making client side minecraft mods
 
-i'm know kotlin, might learn java if i want a career in SE
+i know kotlin, might learn java if i want a career in SE
 
 pronouns - any/all
 
